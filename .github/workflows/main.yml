@@ -12,6 +12,6 @@ jobs:
       
     - uses: ./action-a
       
-    with:
-    
-      MY_NAME: "Mona"
+       with:
+      
+         MY_NAME: "Mona"
